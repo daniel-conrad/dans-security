@@ -4,3 +4,5 @@ Hey there folks - I'm Daniel, and these are my security projects & publications.
 # Projects
 ### OSIPS IP Analysis
 This is a simple Python program that utilizes Virus Total, AbuseIPDB, and IPVoid. You'll need API keys for all of them to successfully run this program. Simply plug in your API keys into the config file, and run the .py program. Keep both files in the same directory, since it's built to reference the config file directly. After running the program and inputting your desired IP address, it will create an Excel file in the same directory with the results for you to view.
+
+https://github.com/daniel-conrad/security/tree/main/OSIPS
