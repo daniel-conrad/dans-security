@@ -11,3 +11,8 @@ This is a simple Python program that utilizes Virus Total, AbuseIPDB, and IPVoid
 :-------------------------:|:-------------------------:|
 | ![Demo](https://raw.githubusercontent.com/daniel-conrad/security/main/OSIPS/osips_demo.png) | ![Excel](https://raw.githubusercontent.com/daniel-conrad/security/main/OSIPS/osips_results.png)
 
+# Reports & Research
+### Coming Soon!
+
+# Publications
+### Coming Soon!
