@@ -5,7 +5,7 @@ Hey there folks - I'm Daniel, and these are my security projects & publications.
 ### OSINT Gathering & Application (Draft)
 This is a brief read on gathering OSINT and generating actionable reports based from it. This guide goes over Both clearnet and TOR network OSINT gathering techniques.
 ![View PDF](https://github.com/daniel-conrad/dans-security/blob/main/Publications/OSINT%20Gathering%20%26%20Application.pdf)
-| OSINT Gathering & Application        | 
+| OSINT Gathering & Application       | 
 |:------------------------------------:|
 | ![OSINT](https://raw.githubusercontent.com/daniel-conrad/dans-security/main/Publications/osint_preview.png) |
 
